@@ -1,3 +1,16 @@
+## target to prctice of nextJS basic knowledge
+1. Navigation bar
+2. API call
+3. API Routing
+4. Link component
+6. Metadata
+7. Data fetching
+8. Dynamic routes
+
+and many more ......
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
